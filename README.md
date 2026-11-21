@@ -9,3 +9,5 @@
 
 문서 관리 : Luna
 
+담당자: 문혜령 (hyeryung.moon@minigate.net)
+
